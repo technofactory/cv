@@ -1,0 +1,17 @@
+h2 , h3, ol, ul, p{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  border: grey;
+  border-style: solid;
+}
+
+table {
+  border-spacing:15px;
+}
